@@ -1,1 +1,1 @@
-## We have divided the dataset into training val、test
+## We have divided the dataset into train val test
